@@ -9,6 +9,8 @@
 
   - [Applying Filters to SQL Queries](https://github.com/LVIXXV/apply-filter-to-an-sql-querie/blob/main/README.md)
 
+- <b>SIEM Tool Projects</b>
+
 <h2> 📄 Certifications</h2>
 
 - [Security +]
