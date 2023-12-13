@@ -14,7 +14,7 @@
 
 <h2> 📄 Certifications</h2>
 
-- [Security +]
+- [Security + (Expected 01/24)]
 - [Qualys. Vulnerability Management ]
 - [Google Cyber Security Professional]
 - [FEMA Incident Command Systems]
